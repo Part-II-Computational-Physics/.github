@@ -12,6 +12,6 @@ The schedule is as follows
 The (tentative) programme for the exercises is
 
 1. Nathan Magnan, PDEs
-2. Brian Bostwick, ???
-3. A. N. Other, Quantum Mechanics
+2. Matthew Ord, Quantum Mechanics
+3. A. N. Other, ???
 4. Danny van der Haven, Monte Carlo
