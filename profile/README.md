@@ -12,6 +12,6 @@ The schedule is as follows
 The (tentative) programme for the exercises is
 
 1. Nathan Magnan, PDEs
-2. Matthew Ord, Quantum Mechanics
-3. A. N. Other, ???
-4. Danny van der Haven, Monte Carlo
+2. Jonathan Hallen, Spin chains
+3. Danny van der Haven, Monte Carlo
+4. Cecilie Glittum, Autodiff
